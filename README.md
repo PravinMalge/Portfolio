@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository! This project showcases my s
 
 ## 🌐 Live Site
 
-[🔗 Visit Portfolio](https://pravinmalge.github.io/Portfolio/)
+[🔗 Visit Portfolio](https://pravinsnation.netlify.app/)
 
 ## 🛠 Tech Stack
 
@@ -14,7 +14,8 @@ Welcome to my personal portfolio website repository! This project showcases my s
 
 ## 📸 Preview
 
-![Portfolio Screenshot](screenshot.png) <!-- Replace or upload actual screenshot file -->
+<img width="1437" height="873" alt="Screenshot 2025-07-22 at 10 36 02 AM" src="https://github.com/user-attachments/assets/bb2f1be3-e168-4543-a215-777357e2bd61" />
+ <!-- Replace or upload actual screenshot file -->
 
 ## 🚀 Features
 
