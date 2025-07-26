@@ -10,7 +10,7 @@ Welcome to my personal portfolio website repository! This project showcases my s
 
 - HTML5  
 - CSS3  
-- JavaScript (optional, if used)  
+- JavaScript 
 
 ## 📸 Preview
 
