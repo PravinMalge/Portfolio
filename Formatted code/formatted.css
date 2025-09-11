@@ -914,13 +914,13 @@ noscript{
     transition-duration: .5s;
 }
 .dp img{
-    width: 300px;
+    width: 305px;
 }
 .dp::before{
     content: "";
     background-color: transparent;
     height: 300px;
-    width: 300px;
+    width: 305px;
     position: absolute;
     z-index: -2;
     box-shadow: 2px 2px 0px inset #8000ff,
@@ -932,7 +932,7 @@ noscript{
     content: "";
     background-color: transparent;
     height: 300px;
-    width: 300px;
+    width: 305px;
     position: absolute;
     z-index: -2;
     box-shadow: 2px 2px 0px inset transparent,
@@ -1953,7 +1953,6 @@ transition-duration: 1s;
     .logos{
         gap: 20px;
     }
-     /* https://github.com/pravinmalge07 */
   }
   @media screen and (max-width:300px) {
     html {
