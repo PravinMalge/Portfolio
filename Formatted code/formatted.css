@@ -297,7 +297,6 @@ noscript{
     position:fixed;
     z-index: 999;
     border: 1px solid var(--color-navbarBorder-dark);
-    
     border-radius: 50px;
     overflow: hidden;
 }
